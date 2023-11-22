@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+}
+body{
+    height: 200vh;
+}
+.pagediv{
+    height: 100vh;
+}
+.navbar{
+    height: 100px;
+    display: flex;
+    background-color: whitesmoke;
+}
+.sakthihotel{
+    font-size: 30px;
+    margin-left: 100px;
+}
+.navc{
+    color: black;
+    text-decoration:none;
+}
+.navc:hover{
+    text-decoration: underline;
+}
+.logindiv{
+    height: 85.3vh;
+    background: url(https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge_1258-150759.jpg?size=626&ext=jpg) no-repeat;
+    background-size: 100vw 85.3vh;
+    padding-top: 450px;
+}
+.logsignup{
+    margin-left: 100px;
+    height: 20vh;
+    width: 20vw;
+
+}
+.button{
+    height: 60px;
+    width:150px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: orangered;
+    color:black;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+}
+.button:hover{
+    background-color: white;
+    color: orangered;
+    border: 1px solid orangered;
+}
+.aboutstay{
+    height:60vh;
+    width:55vw;
+    justify-content: center;
+    align-items: center;
+}
+.image1{
+    height:60vh;
+    width:50vw;
+    justify-content: center;
+    align-items: center;
+}
+.image1inner{
+    height: 40vh;
+    width: 35vw;
+    margin-left: 100px;
+    margin-top: 60px;
+    background: url(https://proxy.electricblaze.com/?u=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1562438668-bcf0ca6578f0%3Fixid%3DM3w0Mzc5fDB8MXxzZWFyY2h8MTd8fGhvdGVsJTIwcm9vbXxlbnwwfDB8fHwxNzAwNDk3NTUzfDA%26ixlib%3Drb-4.0.3%26auto%3Dformat%26fit%3Dcrop%26w%3D1200%26q%3D80&e=1700562415&s=krp3Jx3lxZzChZ6fCL_xgP_pbP8uzMejGWleQcJ_pTc) no-repeat;
+    background-size: 35vw 40vh;
+    border-radius: 20px;
+}
+.image2{
+    height:60vh;
+    width:50vw;
+    justify-content: center;
+    align-items: center;
+}
+.image2inner{
+    height: 40vh;
+    width: 35vw;
+    margin-left: 100px;
+    margin-top: 60px;
+    background: url(https://img.freepik.com/premium-photo/popular-resort-amara-dolce-vita-luxury-hotel_146671-19422.jpg?size=626&ext=jpg) no-repeat;
+    background-size: 35vw 40vh;
+    border-radius: 20px;
+}
+.calculation{
+    height:40vh;
+    display: flex;
+}
+.calculation1{
+    height: 40vh;
+    width: 34vw;
+}
+.cal1style{
+    margin-top: 50px;
+}
+.calculation2{
+    height: 40vh;
+    width: 34vw;
+}
+.calculation3{
+    height: 40vh;
+    width: 34vw;
+}
+.lastsign{
+    height: 40vh;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    font-size: 20px;
+    text-decoration: none;
+}
+.footer:hover{
+    text-decoration: underline;
+}

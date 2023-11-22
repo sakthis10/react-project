@@ -1,0 +1,35 @@
+/* *{
+    margin: 0px;
+} */
+body{
+    height:95vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #C5C7E0;
+    background: url(https://free4kwallpapers.com/uploads/originals/2017/03/13/beach-resort-wallpaper.jpg);
+    background-size: 100vw 100vh;
+}
+h1{
+    margin-right: 90px;
+    margin-bottom: 20px;
+}
+.div2{
+    height:70vh;
+    width:30vw;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:10px;
+    background-color: #fff;
+    padding-left: 50px;
+    margin-left: 10px;
+    margin-right: 850px;
+}
+.remember{
+    margin-right: 90px;
+    gap:10px;
+}
